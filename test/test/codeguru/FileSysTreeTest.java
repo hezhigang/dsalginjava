@@ -41,7 +41,7 @@ public class FileSysTreeTest extends TestCase {
 	 * {@link com.codeguru.FileSysTree#build(com.codeguru.TreeNode)}.
 	 */
 	public void testBuild() {
-		File d = new File("E:/22. 相声/");
+		File d = new File("C:/Windows/System32/drivers/etc");
 		FileSysTree<FCBEntry> tree = new FileSysTree<FCBEntry>();
 		tree.createRoot(new FCBEntry(d.getName(), d.length()));
 		TreeNode<FCBEntry> root = tree.getRoot();
@@ -57,7 +57,7 @@ public class FileSysTreeTest extends TestCase {
 	 * {@link com.codeguru.FileSysTree#visitAllDirsAndFiles(java.io.File)}.
 	 */
 	public void testVisitAllDirsAndFiles() {
-		// File dir = new File("E:/22. 相声");
+		// File dir = new File("C:/Windows/System32/drivers/etc");
 		// try {
 		// if (dir.exists())
 		// FileSysTree.visitAllDirsAndFiles(dir);
