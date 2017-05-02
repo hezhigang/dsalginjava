@@ -1,9 +1,9 @@
 DSALGInJava
 ===============
 
-Test Data Structures and Algorithm in java, by Eclipse IDE and JUnit, log4j
+Algorithms and Data Structures implemented in Java
 
-# Contents
+# Table of Contents
 
 - Hanoitower
 - Farey Series
@@ -42,3 +42,8 @@ Test Data Structures and Algorithm in java, by Eclipse IDE and JUnit, log4j
 # ref
 
 Data Structures and Algorithm, Peking University, China
+
+# better
+
+- Java : Algorithms and Data Structure <https://github.com/phishman3579/java-algorithms-implementation>
+- Algorithms and Data Structures <https://github.com/sherxon/AlgoDS>
