@@ -5,9 +5,6 @@ Algorithms and Data Structures implemented in Java
 
 # Table of Contents
 
-- PatternMatch of String
-- Hanoi tower
-- Farey Series
 - linear Set
 	- List
 	- Dual Chain
@@ -19,25 +16,28 @@ Algorithms and Data Structures implemented in Java
 	- ExpressionTree
 	- HuffmanTree
 	- AVLTree(bug)
-- InternalSort
-	- BubbleSort
-	- insertionSort
-	- selectionSort
-	- Shellsort
-	- Mergesort
-	- Heapsort
-	- quicksort
-	- BucketSort
-	- Radix Sort
 - Graph
 	- traversal
-	- Topologysort
+	- Topological Sort
 	- DFS
 	- BFS
 	- MST
 	- ShortestPath
 - Heap
 - HashDict
+- Pattern Match of String
+- Hanoi tower
+- Farey Series
+- Internal Sort
+	- Bubble Sort
+	- insertion Sort
+	- selection Sort
+	- Shell sort
+	- Merge sort
+	- Heap sort
+	- quick sort
+	- Bucket Sort
+	- Radix Sort
 
 # tools
 
@@ -49,7 +49,14 @@ Algorithms and Data Structures implemented in Java
 
 Data Structures and Algorithm, Peking University, China
 
+<https://www.coursera.org/learn/shuju-jiegou-suanfa>
+
+<https://www.coursera.org/specializations/biancheng-suanfa>
+
 # better
 
 - Java : Algorithms and Data Structure <https://github.com/phishman3579/java-algorithms-implementation>
 - Algorithms and Data Structures <https://github.com/sherxon/AlgoDS>
+- Algorithms, Princeton University
+	- Part I, <https://www.coursera.org/learn/algorithms-part1>
+	- Part II, <https://www.coursera.org/learn/algorithms-part2>
