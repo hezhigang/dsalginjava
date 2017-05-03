@@ -5,15 +5,20 @@ Algorithms and Data Structures implemented in Java
 
 # Table of Contents
 
-- Hanoitower
-- Farey Series
-- DualChain
 - PatternMatch of String
+- Hanoi tower
+- Farey Series
+- linear Set
+	- List
+	- Dual Chain
+	- Queue
+	- Priority Queue
 - Tree
 	- BinaryTree
 	- BinarySearchTree
 	- ExpressionTree
 	- HuffmanTree
+	- AVLTree(bug)
 - InternalSort
 	- BubbleSort
 	- insertionSort
@@ -23,6 +28,7 @@ Algorithms and Data Structures implemented in Java
 	- Heapsort
 	- quicksort
 	- BucketSort
+	- Radix Sort
 - Graph
 	- traversal
 	- Topologysort
@@ -36,8 +42,8 @@ Algorithms and Data Structures implemented in Java
 # tools
 
 - eclipse IDE
-- JUnit
-- log4j
+- JUnit 4.x
+- log4j 1.x
 
 # ref
 
