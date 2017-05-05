@@ -55,8 +55,9 @@ Data Structures and Algorithm, Peking University, China
 
 # better
 
-- Java : Algorithms and Data Structure <https://github.com/phishman3579/java-algorithms-implementation>
-- Algorithms and Data Structures <https://github.com/sherxon/AlgoDS>
+- Algorithms, 4th edition textbook code and libraries <https://github.com/kevin-wayne/algs4>
 - Algorithms, Princeton University
 	- Part I, <https://www.coursera.org/learn/algorithms-part1>
 	- Part II, <https://www.coursera.org/learn/algorithms-part2>
+- Java : Algorithms and Data Structure <https://github.com/phishman3579/java-algorithms-implementation>
+- Algorithms and Data Structures <https://github.com/sherxon/AlgoDS>
