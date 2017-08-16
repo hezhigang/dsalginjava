@@ -59,5 +59,6 @@ Data Structures and Algorithm, Peking University, China
 - Algorithms, Princeton University
 	- Part I, <https://www.coursera.org/learn/algorithms-part1>
 	- Part II, <https://www.coursera.org/learn/algorithms-part2>
+- Algos : Popular Algorithms and Data Structures implemented in popular languages <https://github.com/iiitv/algos>
 - Java : Algorithms and Data Structure <https://github.com/phishman3579/java-algorithms-implementation>
 - Algorithms and Data Structures <https://github.com/sherxon/AlgoDS>
