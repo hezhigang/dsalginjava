@@ -184,7 +184,7 @@ public class InternalSort {
 	public static void qsort(int l, int u, int[] inArr) {
 		if (l>=u) return; //数组的元素小于2时，终止递归
 		int m=l; //m: 中间值的下标
-		for(int i=l+1;i<u; i++)
+		for(int i=l+1;i<=u; i++)
 			//不变式: x[l+1..m] < x[l] && x[m+1..i-1]>=x[l]
 			if (inArr[i]<inArr[l])
 				swap(inArr, ++m, i);
@@ -232,7 +232,7 @@ public class InternalSort {
 	 * @return
 	 */
 	public static int[] quicksort(int[] inArr) {
-		qsort(0,inArr.length, inArr);
+		qsort(0,inArr.length-1, inArr);
 		return inArr;
 	}
 	
